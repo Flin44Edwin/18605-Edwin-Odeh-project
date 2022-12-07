@@ -4,8 +4,8 @@
   "description": "demo app to make AJAX requests to load results of XSL transformation and send POST requests to add new information to JSON and XML files",
   "main": "app.js",
   "dependencies": {
-    "body-parser": "^1.15.2",
-    "express": "^4.14.0",
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
     "fs": "0.0.1-security",
     "xml2js": "^0.4.19",
     "xslt-processor": "^0.11.5"
